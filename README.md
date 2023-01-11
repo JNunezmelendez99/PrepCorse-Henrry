@@ -1,2 +1,2 @@
 # PrepCorse-Henrry
-Este es un repositorio del modulo 2 de  prueba henrry
+prueba de como crear un repositorio y clonarlo desde github a mi pc
